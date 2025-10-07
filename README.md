@@ -1,3 +1,3 @@
 # # Projet Git et GitHub
-Participant: Johan Payet
+Participant: Payet Johan 
 participant: Rayane Taleb
